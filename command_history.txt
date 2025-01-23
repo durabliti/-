@@ -1,0 +1,50 @@
+/h b
+/home d
+/back
+/msg Nazarka22 эээ читак
+/pay fotik62 400000000
+/near
+/gm 3
+/gm 1
+/ban T1ma помеха в рг
+/gm 3
+/gm 1
+/magic
+/gm 3
+/gm 1
+//wan
+//wand
+/copy
+/.copy
+//copy
+/rg i
+/rg
+//copy
+/near
+/gm 4
+/gm 3
+/gm 1
+/gm 4
+/gm 3
+/gm 1
+/lot
+/near
+/pay Falyx 7000000000000
+/pay 7000000000000
+/ah
+/pay 3D_Kolya 100000000
+/pay 3D_Kolya 10000000
+/pay 3D_Kolya 1000000
+/eco give prolil_tea 5000000000000
+/near
+/gm 3
+/gm 1
+/freezetroll Ymil1234
+/gm 3
+/gm 1
+/near
+/tphere niko
+/pay NIKOLAY_2024 1000000000000
+/duel msg
+/adk
+/afk
